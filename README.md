@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<hml lang="fa">
+<html lang="fa">
 <head>
 <meta charset="UTF-8">
 <title>🧠 PID Autopilot</title>
